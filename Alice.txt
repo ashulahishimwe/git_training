@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Am making change to alice.txt o n change_alice branch
+divergent for line for alice
+
