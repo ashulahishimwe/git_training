@@ -1,2 +1,3 @@
 hi am bob , am new here.
 We are going to merge change from master to change Bob
+Diverge line for bob
